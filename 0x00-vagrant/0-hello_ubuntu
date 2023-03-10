@@ -1,1 +1,1 @@
-[-i identity_file] [-m mac_spec] [-o option] [-p port][-R address] [-S ctl_path]
+-i -m -o -p -R -S
